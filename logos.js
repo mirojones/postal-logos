@@ -22,5 +22,9 @@ const logos = [
   {
     "cc": "ao",
     "name": "Correios de Angola"
-  }
+  },
+  {
+    "cc": "ai",
+    "name": "General Postal Service, Anguilla"
+  },
 ];
