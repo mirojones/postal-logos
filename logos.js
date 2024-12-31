@@ -18,5 +18,9 @@ const logos = [
   {
     "cc": "ad",
     "uses": ["es", "fr"]
+  },
+  {
+    "cc": "ao",
+    "name": "Correios de Angola"
   }
 ];
