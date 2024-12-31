@@ -11,6 +11,7 @@ logos.forEach(element => {
       // Add attributes to used post
     } else {
       // create proxy logo with flag
+      var flag = countries.filter(e => e.cc == element.cc);
     }
   }
 });
