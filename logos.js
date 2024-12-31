@@ -11,4 +11,8 @@ const logos = [
     "cc": "dz",
     "name": "Algérie Poste"
   }
+  {
+    "cc": "as",
+    "uses": "us"
+  }
 ];
