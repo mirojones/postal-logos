@@ -90,6 +90,14 @@ const logos = [
     "name": "Bahrain Post"
   },
   {
+    "cc": "bi",
+    "name": "Régie Nationale des Postes"
+  },
+  {
+    "cc": "bj",
+    "name": "La poste du Bénin"
+  },
+  {
     "cc": "dz",
     "name": "Algérie Poste"
   }
