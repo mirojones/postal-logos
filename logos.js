@@ -82,6 +82,10 @@ const logos = [
     "name": "La Poste Burkina Faso"
   },
   {
+    "cc": "bg",
+    "name": "Bulgarian Posts"
+  },
+  {
     "cc": "dz",
     "name": "Algérie Poste"
   }
