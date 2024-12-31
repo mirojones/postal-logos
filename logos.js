@@ -4,6 +4,10 @@ const logos = [
     "uses": ["es", "fr"]
   },
   {
+    "cc": "ae",
+    "name": "Emirates Post"
+  },
+  {
     "cc": "af",
     "name": "Afghan Post"
   },
