@@ -23,6 +23,10 @@ const logos = [
     "name": "Posta Shqiptare"
   },
   {
+    "cc": "am",
+    "name": "HayPost",
+  },
+  {
     "cc": "dz",
     "name": "Algérie Poste"
   }
