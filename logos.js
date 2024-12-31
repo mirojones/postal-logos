@@ -43,7 +43,7 @@ const logos = [
   },
   {
     "cc": "at",
-    "name": "Post AG",
+    "name": "PostAG",
   },
   {
     "cc": "dz",
