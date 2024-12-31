@@ -43,11 +43,15 @@ const logos = [
   },
   {
     "cc": "at",
-    "name": "PostAG",
+    "name": "PostAG"
   },
   {
     "cc": "au",
-    "name": "Australia Post",
+    "name": "Australia Post"
+  },
+  {
+    "cc": "aw",
+    "name": "Post Aruba"
   },
   {
     "cc": "dz",
