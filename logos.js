@@ -27,15 +27,18 @@ const logos = [
     "name": "HayPost",
   },
   {
-    "cc": "dz",
-    "name": "Algérie Poste"
+    "cc": "ao",
+    "name": "Correios de Angola"
+  },
+  {
+    "cc": "aq"
   }
   {
     "cc": "as",
     "uses": ["us"]
   },
   {
-    "cc": "ao",
-    "name": "Correios de Angola"
+    "cc": "dz",
+    "name": "Algérie Poste"
   }
 ];
