@@ -25,6 +25,7 @@ const logos = [
   },
   {
     "cc": "ai",
-    "name": "General Postal Service, Anguilla"
+    "name": "General Postal Service, Anguilla",
+    "form": "jpeg"
   },
 ];
