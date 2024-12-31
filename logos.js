@@ -12,6 +12,9 @@ const logos = [
     "name": "Afghan Post"
   },
   {
+    "cc": "ag"
+  },
+  {
     "cc": "al",
     "name": "Posta Shqiptare"
   },
