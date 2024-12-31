@@ -24,7 +24,7 @@ const logos = [
   },
   {
     "cc": "am",
-    "name": "HayPost",
+    "name": "HayPost"
   },
   {
     "cc": "ao",
@@ -32,7 +32,11 @@ const logos = [
   },
   {
     "cc": "aq"
-  }
+  },
+  {
+    "cc": "ar",
+    "name": "Correo Argentino"
+  },
   {
     "cc": "as",
     "uses": ["us"]
