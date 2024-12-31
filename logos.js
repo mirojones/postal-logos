@@ -12,7 +12,8 @@ const logos = [
     "name": "Afghan Post"
   },
   {
-    "cc": "ag"
+    "cc": "ag",
+    "name": "Antigua and Barbuda Post"
   },
   {
     "cc": "ai",
