@@ -54,6 +54,10 @@ const logos = [
     "name": "Post Aruba"
   },
   {
+    "cc": "ax",
+    "name": "Åland Post"
+  },
+  {
     "cc": "dz",
     "name": "Algérie Poste"
   }
