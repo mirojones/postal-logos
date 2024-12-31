@@ -46,6 +46,10 @@ const logos = [
     "name": "PostAG",
   },
   {
+    "cc": "au",
+    "name": "Australia Post",
+  },
+  {
     "cc": "dz",
     "name": "Algérie Poste"
   }
