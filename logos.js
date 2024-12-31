@@ -15,6 +15,10 @@ const logos = [
     "cc": "ag"
   },
   {
+    "cc": "ai",
+    "name": "General Postal Service, Anguilla"
+  },
+  {
     "cc": "al",
     "name": "Posta Shqiptare"
   },
@@ -29,10 +33,5 @@ const logos = [
   {
     "cc": "ao",
     "name": "Correios de Angola"
-  },
-  {
-    "cc": "ai",
-    "name": "General Postal Service, Anguilla",
-    "form": "jpeg"
-  },
+  }
 ];
