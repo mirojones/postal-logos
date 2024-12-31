@@ -66,6 +66,10 @@ const logos = [
     "name": "BH Pošta"
   },
   {
+    "cc": "bb",
+    "name": "Barbados Postal Service"
+  },
+  {
     "cc": "bd",
     "name": "Bangladesh Post Office"
   },
