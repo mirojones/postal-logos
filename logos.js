@@ -1,5 +1,9 @@
 const logos = [
   {
+    "cc": "ad",
+    "uses": ["es", "fr"]
+  },
+  {
     "cc": "af",
     "name": "Afghan Post"
   },
@@ -14,10 +18,6 @@ const logos = [
   {
     "cc": "as",
     "uses": ["us"]
-  },
-  {
-    "cc": "ad",
-    "uses": ["es", "fr"]
   },
   {
     "cc": "ao",
