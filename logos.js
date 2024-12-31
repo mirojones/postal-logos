@@ -62,6 +62,10 @@ const logos = [
     "name": "Azərpoçt"
   },
   {
+    "cc": "ba",
+    "name": "BH Pošta"
+  },
+  {
     "cc": "dz",
     "name": "Algérie Poste"
   }
