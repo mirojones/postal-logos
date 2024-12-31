@@ -6,5 +6,9 @@ const logos = [
   {
     "cc": "al",
     "name": "Posta Shqiptare"
+  },
+  {
+    "cc": "dz",
+    "name": "Algérie Poste"
   }
 ];
