@@ -86,6 +86,10 @@ const logos = [
     "name": "Bulgarian Posts"
   },
   {
+    "cc": "bh",
+    "name": "Bahrain Post"
+  },
+  {
     "cc": "dz",
     "name": "Algérie Poste"
   }
