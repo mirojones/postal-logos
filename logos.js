@@ -1,6 +1,6 @@
 const logos = [
   {
-    cc: "af",
-    url: ""
+    "cc": "af",
+    "name": "Afghan Post"
   }
 ];
