@@ -13,6 +13,10 @@ const logos = [
   }
   {
     "cc": "as",
-    "uses": "us"
+    "uses": ["us"]
+  },
+  {
+    "cc": "ad",
+    "uses": ["es", "fr"]
   }
 ];
