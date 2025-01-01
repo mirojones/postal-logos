@@ -19,5 +19,3 @@ logos.forEach(element => {
     }
   }
 });
-
-alert(logos[1]["cc"]);
