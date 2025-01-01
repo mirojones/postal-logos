@@ -1,7 +1,7 @@
 const logoCont = document.querySelector("main");
 
 logos.forEach(element => {
-  element["cc"];
+  alert(element["cc"]);
   if (element["no_logo"] == false) {
     if (element["uses"] == false) {
       var imgEl = document.createElement("img");
