@@ -3,7 +3,7 @@ const logoCont = document.querySelector("main");
 logos.forEach(element => {
   if (element["no_logo"] == false) {
     if (element["uses"] == false) {
-      var imgEl = document.createElement("image");
+      var imgEl = document.createElement("img");
       imgEl.src = `l/${element.cc}.png`;
       logoCont.appendChild(imgEl);
     }
