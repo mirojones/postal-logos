@@ -4,6 +4,7 @@ logos.forEach(element => {
   if (element["no_logo"] == false) {
     if (element["uses"] == false) {
       var imgEl = document.createElement("image");
+      imgEl.src = `l/${element.cc}.png`;
       logoCont.appendChild(imgEl);
     }
   } else {
