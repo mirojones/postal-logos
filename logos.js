@@ -1,106 +1,106 @@
 const logos = [
   {
     "cc": "ad",
-    "uses": ["es", "fr"]
+    "post": ["es", "fr"]
   },
   {
     "cc": "ae",
-    "name": "Emirates Post"
+    "post": "Emirates Post"
   },
   {
     "cc": "af",
-    "name": "Afghan Post"
+    "post": "Afghan Post"
   },
   {
     "cc": "ag",
-    "name": "Antigua and Barbuda Post"
+    "post": "Antigua and Barbuda Post"
   },
   {
     "cc": "ai",
-    "name": "General Postal Service, Anguilla"
+    "post": "General Postal Service, Anguilla"
   },
   {
     "cc": "al",
-    "name": "Posta Shqiptare"
+    "post": "Posta Shqiptare"
   },
   {
     "cc": "am",
-    "name": "HayPost"
+    "post": "HayPost"
   },
   {
     "cc": "ao",
-    "name": "Correios de Angola"
+    "post": "Correios de Angola"
   },
   {
     "cc": "aq",
-    "name": "false"
+    "post": false
   },
   {
     "cc": "ar",
-    "name": "Correo Argentino"
+    "post": "Correo Argentino"
   },
   {
     "cc": "as",
-    "uses": ["us"]
+    "post": ["us"]
   },
   {
     "cc": "at",
-    "name": "PostAG"
+    "post": "PostAG"
   },
   {
     "cc": "au",
-    "name": "Australia Post"
+    "post": "Australia Post"
   },
   {
     "cc": "aw",
-    "name": "Post Aruba"
+    "post": "Post Aruba"
   },
   {
     "cc": "ax",
-    "name": "Åland Post"
+    "post": "Åland Post"
   },
   {
     "cc": "az",
-    "name": "Azərpoçt"
+    "post": "Azərpoçt"
   },
   {
     "cc": "ba",
-    "name": "BH Pošta"
+    "post": "BH Pošta"
   },
   {
     "cc": "bb",
-    "name": "Barbados Postal Service"
+    "post": "Barbados Postal Service"
   },
   {
     "cc": "bd",
-    "name": "Bangladesh Post Office"
+    "post": "Bangladesh Post Office"
   },
   {
     "cc": "be",
-    "name": "Bpost"
+    "post": "Bpost"
   },
   {
     "cc": "bf",
-    "name": "La Poste Burkina Faso"
+    "post": "La Poste Burkina Faso"
   },
   {
     "cc": "bg",
-    "name": "Bulgarian Posts"
+    "post": "Bulgarian Posts"
   },
   {
     "cc": "bh",
-    "name": "Bahrain Post"
+    "post": "Bahrain Post"
   },
   {
     "cc": "bi",
-    "name": "Régie Nationale des Postes"
+    "post": "Régie Nationale des Postes"
   },
   {
     "cc": "bj",
-    "name": "La poste du Bénin"
+    "post": "La poste du Bénin"
   },
   {
     "cc": "dz",
-    "name": "Algérie Poste"
+    "post": "Algérie Poste"
   }
 ];
