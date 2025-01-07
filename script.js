@@ -1,8 +1,8 @@
 const logoCont = document.querySelector("main");
 
 logos.forEach(element => {
-  if (!!element["no_logo"]) {
-    if (element.uses == true) {
+  if (element["no_logo"] == true) { // country does not have logo
+    if (element.uses == true) { // country uses other country(s)'s services
       // Add attributes to used post
     } else {
       // create proxy logo with flag
