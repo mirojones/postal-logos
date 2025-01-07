@@ -11,3 +11,5 @@ The `logos.js` file is a `const` named `logos` with an array of JSON objects for
       - string: Name of post.
     - `cc`
       - string: ISO alpha-2 country codes of other countries whose post/s handle mail in that country.
+
+## Examples
