@@ -7,5 +7,6 @@ logos.forEach(element => {
     img.src = `l/${element["cc"]}.png`;
     fig.appendChild(img);
     fig.appendChild(figCap);
+    fig.id = element["cc"];
     mainEl.appendChild(fig);
 });
