@@ -32,7 +32,8 @@ const logos = [
     "name": "Correios de Angola"
   },
   {
-    "cc": "aq"
+    "cc": "aq",
+    "name": "false"
   },
   {
     "cc": "ar",
